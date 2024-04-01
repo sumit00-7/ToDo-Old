@@ -1,0 +1,56 @@
+body{
+    background-color: #e3e9ff;
+}
+.container{
+    text-align: center;
+    margin: 60px;
+}
+
+h1{
+    margin: 0px 375px 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #af7eeb;
+    color: white;
+}
+
+.addButton{
+    padding: 3px 9px;
+    background-color: #af7eeb;
+    color: white;
+    border: none;
+    margin-left: 5px;
+}
+
+.listing{
+    margin: 50px 375px 25px;
+}
+
+ul{
+    background-color: white;
+    padding-left: 0px;
+    
+}
+
+li{
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+span.newListing{
+    padding: 25px;
+}
+
+.done{
+    size: 2px;
+}
+
+i{
+    padding: 2px;
+}
+
+span.timer{
+    display:flex;
+    justify-content:flex-end;
+}
